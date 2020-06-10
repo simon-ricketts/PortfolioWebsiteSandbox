@@ -24,7 +24,7 @@ SECRET_KEY = os.environ["DJANGO_SECRET_KEY"]
 
 if os.environ.get("DJANGO_ENV") == "prod":
     DEBUG = False
-    ALLOWED_HOSTS = ["sandbox.com"]
+    ALLOWED_HOSTS = ["sandbox.simonsthe.name"]
 else:
     DEBUG = True
     ALLOWED_HOSTS = ["*"]
