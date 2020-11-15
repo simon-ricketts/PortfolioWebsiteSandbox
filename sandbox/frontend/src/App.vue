@@ -6,16 +6,19 @@
         <h1>Still tinkering!</h1>
       </v-row>
       <v-row>
-        <p class="mb-2">There's nothing here at the moment, give it some time though and I'm sure something will pop up.</p>
+        <p class="mb-2">
+          There's nothing here at the moment, give it some time though and I'm
+          sure something will pop up.
+        </p>
         <p>
-          If you're interested in the source code used to set-up this website, I've created a
-          <a
-            href="https://github.com/simon-ricketts/django-vue-docker-template"
-          >template repo</a> on GitHub which you can use to build a similar website (Technologies used:
-          <a
-            href="https://www.djangoproject.com/"
-            target="_blank"
-          >Django</a>,
+          If you're interested in the source code used to set-up this website,
+          I've created a
+          <a href="https://github.com/simon-ricketts/django-vue-docker-template"
+            >template repo</a
+          >
+          on GitHub which you can use to build a similar website (Technologies
+          used:
+          <a href="https://www.djangoproject.com/" target="_blank">Django</a>,
           <a href="https://vuejs.org/" target="_blank">Vue</a>,
           <a href="https://www.docker.com/" target="_blank">Docker</a>,
           <a href="https://www.nginx.com/" target="_blank">nginx</a>)
@@ -28,7 +31,7 @@
 <script>
 export default {
   name: "App",
-  components: {}
+  components: {},
 };
 </script>
 
