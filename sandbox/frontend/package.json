@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.6.11",
-    "vuetify": "^2.2.34"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
